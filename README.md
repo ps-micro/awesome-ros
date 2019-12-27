@@ -4,18 +4,18 @@ This is a list of various resources for ROS and robotics. It's an attempt to gat
 (including both **Chinese** and **English** materials)   
 
 ## contents:  
-* [1.ROS](README.md#1.ROS)
-* [2.ROS2](README.md#2.ROS2)
-* [3.Robotics](README.md#3.Robotics)
-* [4.Robots](README.md#4.Robots)
-* [5.Vision](README.md#5.Vision)
-* [6.SLAM](README.md#6.SLAM)
-* [7.Localization](README.md#7.Localization)
-* [8.Navigation](README.md#8.Navigation)
-* [9.Control](README.md#9.Control)
-* [10.Manipulator](README.md#10.Manipulator)
-* [11.Machine Learning](README.md#11.Machine_Learning)
-* [12.Other Awesome Topics](README.md#12.Other_Awesome_Topics)
+* [1.ROS](README.md#1ros)
+* [2.ROS2](README.md#2ros2)
+* [3.Robotics](README.md#3robotics)
+* [4.Robots](README.md#4robots)
+* [5.Vision](README.md#5vision)
+* [6.SLAM](README.md#6slam)
+* [7.Localization](README.md#7localization)
+* [8.Navigation](README.md#8navigation)
+* [9.Control](README.md#9control)
+* [10.Manipulator](README.md#10manipulator)
+* [11.Machine Learning](README.md#11machine_learning)
+* [12.Other Awesome Topics](README.md#12other_awesome_topics)
 
 ## 1.ROS
 Websites:
