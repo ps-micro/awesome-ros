@@ -30,14 +30,14 @@ Courses:
 * [ROS入门21讲](https://www.bilibili.com/video/av59458869?from=search&seid=14130773534647455907) 
 
 Books：
-* Mastering ROS for Robotics Programming, Lentin Joseph
-* ROS By Example (Volume 1 and Volume 2), Patrick Goebel
-* Programming Robots with ROS - A Practical introduction to the Robot Operating System, Morgan Quigley, Brian Gerkey & William D. Smart
-* Learning ROS for Robotics Programming, Aaron Martinez, Enrique Fernández
-* A Gentle Introduction to ROS, Jason M. O'Kane
-* ROS Robotics Projects, Lentin Joseph
-* Effective Robotics Programming with ROS, Anil Mahtani and Luis Sanchez
-* ROS机器人开发实践, 胡春旭
+* [Mastering ROS for Robotics Programming](https://www.amazon.com/Mastering-ROS-Robotics-Programming-Operating/dp/1788478959), by Lentin Joseph
+* [ROS By Example (Volume 1 and Volume 2)](http://wiki.ros.org/Books/ROSbyExample), by Patrick Goebel
+* [Programming Robots with ROS: A Practical Introduction to the Robot Operating System](https://www.amazon.com/Programming-Robots-ROS-Practical-Introduction/dp/1449323898), by Morgan Quigley, Brian Gerkey & William D. Smart
+* [Learning ROS for Robotics Programming](https://www.amazon.com/Learning-ROS-Robotics-Programming-Second-ebook/dp/B00YSIL6VM), by Aaron Martinez, Enrique Fernández
+* [A Gentle Introduction to ROS](https://cse.sc.edu/~jokane/agitr/agitr-letter.pdf), by Jason M. O'Kane
+* [ROS Robotics Projects: Make your robots see, sense, and interact with cool and engaging projects with Robotic Operating System](https://www.amazon.com/ROS-Robotics-Projects-interact-Operating/dp/1783554711), by Lentin Joseph 
+* [Effective Robotics Programming with ROS](https://www.amazon.com/Effective-Robotics-Programming-ROS-Third-ebook/dp/B01H1JD6H6), by Anil Mahtani and Luis Sanchez
+* [ROS机器人开发实践](https://item.jd.com/12377412.html), by 胡春旭
 
 ## 2.ROS2
 * [ROS2 Wiki](https://github.com/ros2/ros2/wiki) 
@@ -52,11 +52,10 @@ Courses:
 * [开源机器人学学习指南](https://github.com/qqfly/how-to-learn-robotics) 
 
 Books：
-* Introduction to Robotics: Mechanics and Control, 	
-John J. Craig
-* Robotics: Modelling, Planning and Control, Bruno Siciliano, Lorenzo Sciavicco, Luigi Villani, Giuseppe Oriolo
-* Probabilistic Robotics, by Sebastian Thrun, Wolfram Burgard, Dieter Fox
-* Robotics, Vision and Control: Fundamental Algorithms In MATLAB,Peter Corke
+* [Introduction to Robotics: Mechanics and Control](https://www.amazon.com/Introduction-Robotics-Mechanics-Control-3rd/dp/0201543613), by John J. Craig
+* [Robotics: Modelling, Planning and Control](https://www.amazon.com/Robotics-Modelling-Planning-Textbooks-Processing/dp/1846286417), by Bruno Siciliano, Lorenzo Sciavicco, Luigi Villani, Giuseppe Oriolo
+* [Probabilistic Robotics (Intelligent Robotics and Autonomous Agents series)](http://www.amazon.com/Probabilistic-Robotics-Intelligent-Autonomous-Agents/dp/0262201623/), by Sebastian Thrun, Wolfram Burgard, Dieter Fox
+* [Robotics, Vision and Control: Fundamental Algorithms In MATLAB](https://www.amazon.com/Robotics-Vision-Control-Fundamental-Algorithms/dp/3319544128), by Peter Corke
 
 ## 4.Robots
 
@@ -71,7 +70,7 @@ John J. Craig
 
 
 ## 8.Navigation
-* [ROS 2 Navigation Packages](https://github.com/ros-planning/navigation2) 
+* [ROS2 Navigation Packages](https://github.com/ros-planning/navigation2) 
 
 
 ## 9.Control
@@ -84,6 +83,6 @@ John J. Craig
 
 
 ## 12.Other_Awesome_Topics
-* [Awesome ROS2 ](https://fkromer.github.io/awesome-ros2/) 
+* [Awesome ROS2](https://fkromer.github.io/awesome-ros2/) 
 
 
