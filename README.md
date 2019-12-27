@@ -49,7 +49,7 @@ Courses:
 * [ETH - Robotic Systems Lab](https://rsl.ethz.ch/education-students/lectures.html) 
 * [斯坦福大学公开课——机器人学](https://www.bilibili.com/video/av4506104/) 
 * [交通大学 —— 机器人学](https://www.bilibili.com/video/av18516816) 
-* [开源机器人学学习指南](https://github.com/qqfly/how-to-learn-robotics) 
+* [开源机器人学学习指南](https://github.com/qqfly/how-to-learn-robotics)
 
 Books：
 * [Introduction to Robotics: Mechanics and Control](https://www.amazon.com/Introduction-Robotics-Mechanics-Control-3rd/dp/0201543613), by John J. Craig
@@ -58,31 +58,78 @@ Books：
 * [Robotics, Vision and Control: Fundamental Algorithms In MATLAB](https://www.amazon.com/Robotics-Vision-Control-Fundamental-Algorithms/dp/3319544128), by Peter Corke
 
 ## 4.Robots
+* [ROS Robots](https://robots.ros.org/)
 
+Mobile Robots:
+* [PR2](http://wiki.ros.org/Robots/PR2)
+* [turtlebot3](http://wiki.ros.org/turtlebot3)
+* [Aldebaran Nao](http://wiki.ros.org/nao)
+
+Manipulator:
+* [JACO](http://wiki.ros.org/jaco_ros)
+* [fanuc](http://wiki.ros.org/fanuc)
+* [motoman](http://wiki.ros.org/motoman)
+* [universal_robots](http://wiki.ros.org/action/show/universal_robots?action=show&redirect=universal_robot)
+* [PROBOT Anno](https://github.com/ps-micro/PROBOT_Anno)
+
+Component:
+* [Shadow_Hand](http://wiki.ros.org/Robots/Shadow_Hand)
+* [Lego NXT](http://wiki.ros.org/Robots/NXT)
 
 ## 5.Vision
-
+* [camera_calibration](http://wiki.ros.org/camera_calibration/)
+* [visp_hand2eye_calibration](http://wiki.ros.org/visp_hand2eye_calibration)
+* [easy_handeye](https://github.com/IFL-CAMP/easy_handeye)
+* [find_object_2d](http://wiki.ros.org/find_object_2d)
+* [Tensorflow Object Detection API](https://github.com/tensorflow/models/tree/master/research/object_detection)
+* [object_recognition：](http://wiki.ros.org/object_recognition)
 
 ## 6.SLAM
-
+* [gmapping](http://wiki.ros.org/gmapping) 
+* [hector_slam](http://wiki.ros.org/hector_slam) 
+* [slam_karto](http://wiki.ros.org/slam_karto) 
+* [cartographer](http://wiki.ros.org/cartographer) 
+* [ohm_tsd_slam](http://wiki.ros.org/ohm_tsd_slam) 
+* [slam_toolbox](http://wiki.ros.org/slam_toolbox) 
+* [orb_slam2_ros](http://wiki.ros.org/orb_slam2_ros) 
 
 ## 7.Localization
+* [amcl](http://wiki.ros.org/amcl) 
+* [mrpt_localization](http://wiki.ros.org/mrpt_localization) 
 
 
 ## 8.Navigation
-* [ROS2 Navigation Packages](https://github.com/ros-planning/navigation2) 
-
+* [ROS Navigation](http://wiki.ros.org/navigation/) 
+* [move_base](http://wiki.ros.org/move_base/) 
+* [ROS2 Navigation Packages](https://github.com/ros-planning/navigation2)
 
 ## 9.Control
-
+* [ros_control](http://wiki.ros.org/ros_control) 
+* [ros_controllers](http://wiki.ros.org/ros_controllers) 
+* [ROS Control Tutorial](http://gazebosim.org/tutorials/?tut=ros_control) 
 
 ## 10.Manipulator
+MoveIt: 
+* [ROS MoveIt](https://moveit.ros.org/) 
+* [MoveIt Tutorials](http://docs.ros.org/melodic/api/moveit_tutorials/html/index.html) 
+* [MoveIt Source Code API](https://moveit.ros.org/documentation/source-code-api/) 
 
+Kinematics:
+* [IKFast: The Robot Kinematics Compiler](http://openrave.org/docs/0.8.2/openravepy/ikfast/) 
+* [Create_a_Fast_IK_Solution](http://wiki.ros.org/Industrial/Tutorials/Create_a_Fast_IK_Solution) 
+* [trac_ik](http://wiki.ros.org/trac_ik) 
+
+Grasping:
+* [agile_grasp](http://wiki.ros.org/agile_grasp) 
+* [graspit](http://wiki.ros.org/graspit) 
+* [moveit_simple_grasps](http://wiki.ros.org/moveit_simple_grasps) 
 
 ## 11.Machine_Learning
+* [openai_ros](http://wiki.ros.org/openai_ros) 
+* [tensorflow_ros_cpp](http://wiki.ros.org/tensorflow_ros_cpp)
+* [Tensorflow Object Detector with ROS](https://github.com/osrf/tensorflow_object_detector) 
 
 
 ## 12.Other_Awesome_Topics
 * [Awesome ROS2](https://fkromer.github.io/awesome-ros2/) 
-
-
+* [Awesome Robotics](https://github.com/ahundt/awesome-robotics) 
